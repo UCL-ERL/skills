@@ -4,7 +4,7 @@
 
 **Composable research workflows and persistent agent instructions for Robotics & AI.**
 
-Developed and maintained by **[ERL Lab](https://ucl-erl.github.io/) (Embodied Reinforcement Learning Lab)** within **UCL Robotics & AI**.
+Developed and maintained by **[ERL Lab](https://ucl-erl.github.io/) (Embodied Reinforcement Learning Lab)** within **UCL Robotics & AI**, under the supervision of **[Dr Zezhi Tang](https://profiles.ucl.ac.uk/101536-zezhi-tang)**.
 
 [![Validate](https://github.com/UCL-ERL/skills/actions/workflows/validate.yml/badge.svg)](https://github.com/UCL-ERL/skills/actions/workflows/validate.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
