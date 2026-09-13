@@ -217,6 +217,16 @@ Read [CONTRIBUTING.md](./CONTRIBUTING.md), [GOVERNANCE.md](./GOVERNANCE.md), and
 
 Current contributors are recorded in [CONTRIBUTORS.md](./CONTRIBUTORS.md) according to their actual work.
 
+## Star History
+
+<a href="https://www.star-history.com/#UCL-ERL/skills&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=UCL-ERL/skills&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=UCL-ERL/skills&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=UCL-ERL/skills&type=Date" />
+  </picture>
+</a>
+
 ## License
 
 Released under the [MIT License](./LICENSE).
